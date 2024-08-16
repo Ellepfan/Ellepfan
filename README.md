@@ -11,7 +11,7 @@
 
 
 
-<b> Свой путь я начинаю с питон и джава(андроид)</b>
+<b> Свой путь я начинаю с python и java(android</b>
 
   <img src="https://github.com/Ellepfan/Ellepfan/blob/main/gif/card_1.gif" height ="300" width="200"> <img src="https://github.com/Ellepfan/Ellepfan/blob/main/gif/androidos_Rq83xCcY.gif " height ="300" width="200">
 
