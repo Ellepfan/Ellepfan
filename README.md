@@ -1,6 +1,6 @@
 ## Welcome, here you can "заДебажить" :wrench: my crazy code :eyes:
 <div id="header" align="center">
-  <img src="https://github.com/Ellepfan/Ellepfan/blob/main/gif/tab_3.gif" width="600"/>
+  <img src="https://github.com/Ellepfan/Ellepfan/blob/main/gif/ro7nagne7e.jpg" width="600"/>
 </div>
 
 ![Static Badge](https://img.shields.io/badge/py-python-blue?style=flat&logo=python)
