@@ -7,6 +7,8 @@
 ![Static Badge](https://img.shields.io/badge/java-android-green?style=flat&logo=android)
 ![Static Badge](https://img.shields.io/badge/-linux-black?style=flat&logo=linux)
 ![Static Badge](https://img.shields.io/badge/-Ellephan-black?style=flat&logo=cloudsmith)
+![Static Badge](https://www.codewars.com/users/Ellepfan/badges/micro)
+
 
 
 
